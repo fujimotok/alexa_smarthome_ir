@@ -1,4 +1,4 @@
-arexa_smarthome_ir
+alexa_smarthome_ir
 ===
 There is sample code for Alexa smart home skills use case.
 
